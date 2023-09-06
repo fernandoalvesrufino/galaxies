@@ -67,7 +67,7 @@ main {
 
 .content {
   padding: 0 2.25rem 3.85rem;
-  max-width: 32rem;
+  max-width: 32.1rem;
 
   box-sizing: content-box;
 }
@@ -80,4 +80,7 @@ main {
 
 .card p {
   color: #C4C4CC;
+
+  font-size: 1.93rem;
+  font-weight: 600;
 }
