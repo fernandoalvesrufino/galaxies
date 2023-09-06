@@ -18,8 +18,15 @@ body {
 
   padding: 7.3rem 10rem;
 
+  width: 100%;
+
   background-color: #121214;
   color: #E1E1E6;
+}
+
+header, main {
+  max-width: 121.8rem;
+  margin: 0 auto;
 }
 
 h1 {
